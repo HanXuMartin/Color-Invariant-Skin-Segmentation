@@ -6,6 +6,6 @@ Here is one example ![color augmentation](https://github.com/HanXuMartin/Color-I
 ## Trained Models
 We trained [FCN](https://github.com/yunlongdong/FCN-pytorch) and [U-Net](https://github.com/zhixuhao/unet) using [ECU](https://ieeexplore.ieee.org/document/1359760) dataset.
 Pretrained models can be found [here](https://drive.google.com/drive/folders/1QfoxabLN-UrsLwZjYXqmCYdHUkHxDJsf?usp=sharing)
-##How to Use
+## How to Use
 U-Net: OPen the main.ipynb. Change the file path to your own dataset. 
 FCN: Change the file path in ECUdata.py (and ECUdata_.py if you need validation). Run FCN.py for training and prediction.py for testing.
