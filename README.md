@@ -6,7 +6,7 @@ This is the implementation of the [CVPR paper](https://openaccess.thecvf.com/con
 
 Change the HSV values of images and enlarge the training set. We used the parameters shown in the image below.
 
-Here is one example.
+[Here](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/color%20augmentation/HSV_converter.py) is one example on how to change the HSV value.
 
 ![color augmentation](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/color%20augmentation/color_augmentation.png)
 
