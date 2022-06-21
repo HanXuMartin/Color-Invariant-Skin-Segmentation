@@ -6,3 +6,5 @@ Here is one example ![color augmentation](https://github.com/HanXuMartin/Color-I
 ## Trained Models
 We trained [FCN](https://github.com/yunlongdong/FCN-pytorch) and [U-Net](https://github.com/zhixuhao/unet) using [ECU](https://ieeexplore.ieee.org/document/1359760) dataset.
 Pretrained models can be found [here](https://drive.google.com/drive/folders/1QfoxabLN-UrsLwZjYXqmCYdHUkHxDJsf?usp=sharing)
+##How to Use
+U-Net: If you want to use the pretrained model, 
