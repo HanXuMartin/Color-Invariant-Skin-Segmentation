@@ -9,4 +9,4 @@ Pretrained models can be found [here](https://drive.google.com/drive/folders/1Qf
 ## How to Use
 U-Net: Open the main.ipynb. Change the file path to your own dataset. 
 
-FCN: Change the file path in ECUdata.py (and ECUdata_.py if you need validation). Run FCN.py for training and prediction.py for testing.
+FCN: Change the file path in ECUdata.py (and ECUdata_val.py if you need validation). Run FCN.py for training and prediction.py for testing.
