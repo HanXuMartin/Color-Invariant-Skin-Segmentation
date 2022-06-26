@@ -62,6 +62,15 @@ python train.py
 ```
 The checkpoints will be saved in the U-Net/checkpoints as default. 
 ## FCN training
+1. Open the data_train.py/data_val.py and change the training/validation path. Remeber to change the format of the masks names in the line 
+```
+imgB = cv2.imread('your mask')
+```
+2. Open the FCN.py and change the training parameters and the saving path of checkpoints. Then run FCN.py.
+```
+python FCN.py
+```
+
 
 
 
