@@ -71,6 +71,19 @@ imgB = cv2.imread('your mask')
 python FCN.py
 ```
 
+## Cite this repo
+If you find this repo useful, please consider cite it as following:
+```
+@InProceedings{Xu_2022_CVPR,
+    author    = {Xu, Han and Sarkar, Abhijit and Abbott, A. Lynn},
+    title     = {Color Invariant Skin Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2022},
+    pages     = {2906-2915}
+}
+```
+
 
 
 
