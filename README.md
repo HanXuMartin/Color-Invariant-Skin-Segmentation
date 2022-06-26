@@ -10,6 +10,7 @@ Change the HSV values of images and enlarge the training set. We used the parame
 
 ![color augmentation](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/color%20augmentation/color_augmentation.png)
 
+## Output
 
 # How to use
 ## Requirements
