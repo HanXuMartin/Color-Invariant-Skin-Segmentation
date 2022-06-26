@@ -28,17 +28,16 @@ cd Color-Invariant-Skin-Segmentation
 ```
 3. Download the models from [here](https://drive.google.com/drive/folders/1QfoxabLN-UrsLwZjYXqmCYdHUkHxDJsf?usp=sharing)
 
-4. For U-Net: Change the model path, testing path and output path in the test.py.
+4. For U-Net: Change the model path, testing path and output path in the test.py and then run test.py.
 ```
 cd U-Net
 python test.py
 ```
-
-
-U-Net: Open the main.ipynb. Change the file path to your own dataset. 
-
-FCN: Change the file path in ECUdata.py (and ECUdata_val.py if you need validation). Run FCN.py for training and prediction.py for testing.
-
+5. For FCN: Change the model path, testing path and output path in the prediction.py and then run prediction.py.
+```
+cd FCN
+python prediction.py
+```
 
 
 # Train Models
