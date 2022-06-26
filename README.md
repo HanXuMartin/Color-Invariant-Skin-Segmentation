@@ -18,7 +18,7 @@ Change the HSV values of images and enlarge the training set. We used the parame
 - Tensorflow
 - Keras 
 # Test
-1. Clone the repo: 
+- Clone the repo: 
 
 `git clone https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation.git`
 
