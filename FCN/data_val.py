@@ -39,8 +39,8 @@ class Dataset(Dataset):
         item = {'A':imgA, 'B':imgB}
         return item
 
-training_data = Dataset(transform)
-dataloader_val = DataLoader(training_data, batch_size=4, shuffle=True, num_workers=4)
+validation_data = Dataset(transform)
+dataloader_val = DataLoader(validation_data, batch_size=4, shuffle=True, num_workers=4)
 if __name__ =='__main__':
     for batch in dataloader:
         print(len(dataloader))
