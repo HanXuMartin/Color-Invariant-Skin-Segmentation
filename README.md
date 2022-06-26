@@ -42,8 +42,10 @@ python prediction.py
 
 ## Train models with your own dataset
 
-[ECU](https://ieeexplore.ieee.org/document/1359760) dataset.
+We trained our models using [ECU](https://ieeexplore.ieee.org/document/1359760) dataset. Following the steps if you want to train your own models.
+### U-Net training
+### FCN training
 
-Pretrained models can be found [here](https://drive.google.com/drive/folders/1QfoxabLN-UrsLwZjYXqmCYdHUkHxDJsf?usp=sharing)
+
 
 
