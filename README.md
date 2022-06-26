@@ -11,8 +11,17 @@ Change the HSV values of images and enlarge the training set. We used the parame
 ![color augmentation](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/color%20augmentation/color_augmentation.png)
 
 
-
-## Test
+## How to use
+# Requirements
+- Python 3.8.5
+- PyTorch
+- Tensorflow
+- Keras 
+# Test
+1. Clone the repo:
+'''
+git clone https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation.git
+'''
 
 U-Net: Open the main.ipynb. Change the file path to your own dataset. 
 
@@ -20,7 +29,7 @@ FCN: Change the file path in ECUdata.py (and ECUdata_val.py if you need validati
 
 
 
-## Train Models
+# Train Models
 
 We trained [FCN](https://github.com/yunlongdong/FCN-pytorch) and [U-Net](https://github.com/zhixuhao/unet) using [ECU](https://ieeexplore.ieee.org/document/1359760) dataset.
 
