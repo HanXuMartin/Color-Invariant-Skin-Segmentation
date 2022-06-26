@@ -20,7 +20,7 @@ Change the HSV values of images and enlarge the training set. We used the parame
 # Test
 1. Clone the repo:
 '''
-git clone https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation.git
+`git clone https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation.git`
 '''
 
 U-Net: Open the main.ipynb. Change the file path to your own dataset. 
