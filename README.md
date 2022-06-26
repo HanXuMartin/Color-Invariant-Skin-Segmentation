@@ -1,6 +1,6 @@
 # Color Invariant Skin Segmentation
 
-This is the implementation of the [CVPR paper](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Xu_Color_Invariant_Skin_Segmentation_CVPRW_2022_paper.pdf).
+This is the implementation of the [CVPR paper](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Xu_Color_Invariant_Skin_Segmentation_CVPRW_2022_paper.pdf) using [FCN](https://github.com/yunlongdong/FCN-pytorch) and [U-Net](https://github.com/zhixuhao/unet).
 
 ## Color Space Augmentation
 
@@ -40,9 +40,9 @@ python prediction.py
 ```
 
 
-## Train model with your own dataset
+## Train models with your own dataset
 
-We trained [FCN](https://github.com/yunlongdong/FCN-pytorch) and [U-Net](https://github.com/zhixuhao/unet) using [ECU](https://ieeexplore.ieee.org/document/1359760) dataset.
+[ECU](https://ieeexplore.ieee.org/document/1359760) dataset.
 
 Pretrained models can be found [here](https://drive.google.com/drive/folders/1QfoxabLN-UrsLwZjYXqmCYdHUkHxDJsf?usp=sharing)
 
