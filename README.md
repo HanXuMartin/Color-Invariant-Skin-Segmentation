@@ -10,13 +10,13 @@ Change the HSV values of images and enlarge the training set. We used the parame
 
 ![color augmentation](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/color%20augmentation/color_augmentation.png)
 
-## Trained Models
+## Train Models
 
 We trained [FCN](https://github.com/yunlongdong/FCN-pytorch) and [U-Net](https://github.com/zhixuhao/unet) using [ECU](https://ieeexplore.ieee.org/document/1359760) dataset.
 
 Pretrained models can be found [here](https://drive.google.com/drive/folders/1QfoxabLN-UrsLwZjYXqmCYdHUkHxDJsf?usp=sharing)
 
-## How to Use
+## Test
 
 U-Net: Open the main.ipynb. Change the file path to your own dataset. 
 
