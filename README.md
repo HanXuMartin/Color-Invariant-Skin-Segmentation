@@ -62,7 +62,7 @@ dataset
 ```
 python train.py
 ```
-The checkpoints will be saved in the U-Net/checkpoints as default. 
+Checkpoints will be saved in the U-Net/checkpoints as default. 
 ## FCN training
 1. Open the data_train.py/data_val.py and change the training/validation path. Remeber to change the format of the masks names in the line 
 ```
@@ -72,7 +72,7 @@ imgB = cv2.imread('your mask')
 ```
 python FCN.py
 ```
-
+Checkpoints will be saved in the FCN/checkpoints as default.
 ## Cite this repo
 If you find this repo useful, please consider citing it as following:
 ```
