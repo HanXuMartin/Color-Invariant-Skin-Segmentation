@@ -42,7 +42,7 @@ python prediction.py
 
 ## Train models with your own dataset
 
-We trained our models using [ECU](https://ieeexplore.ieee.org/document/1359760) dataset. Following the steps if you want to train your own models. We suggest the groundtruth to be in the images format (like jpg, png and so on)
+We trained our models using [ECU](https://ieeexplore.ieee.org/document/1359760) dataset. Following the steps if you want to train your own models. We suggest the groundtruth to be in the image format (like jpg, png)
 ## Dataset organition
 Origanize your dataset as follows:
 ```
