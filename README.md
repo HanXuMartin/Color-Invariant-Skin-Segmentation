@@ -74,7 +74,7 @@ python FCN.py
 ```
 
 ## Cite this repo
-If you find this repo useful, please consider cite it as following:
+If you find this repo useful, please consider citing it as following:
 ```
 @InProceedings{Xu_2022_CVPR,
     author    = {Xu, Han and Sarkar, Abhijit and Abbott, A. Lynn},
