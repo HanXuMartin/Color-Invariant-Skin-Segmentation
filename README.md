@@ -4,7 +4,7 @@ This is the implementation of the [CVPR paper](https://openaccess.thecvf.com/con
 
 ## Color Space Augmentation
 
-Change the HSV values of images and enlarge the training set. We used the parameters shown in the image below.
+Images will be augmentated in HSV color space. We change the HSV values of images and enlarge the training set. We used the parameters shown in the image below.
 
 [Here](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/color%20augmentation/HSV_converter.py) is one example on how to change the HSV value.
 
