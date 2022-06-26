@@ -11,7 +11,8 @@ Change the HSV values of images and enlarge the training set. We used the parame
 ![color augmentation](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/color%20augmentation/color_augmentation.png)
 
 ## Output
-
+Color space augmentation can help skin segmentation models deal with complex illuminatlion conditions.
+https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/examples/results%20examples%201.png
 # How to use
 ## Requirements
 - Python 3.8.5
