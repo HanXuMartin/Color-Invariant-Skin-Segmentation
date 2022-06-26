@@ -11,7 +11,7 @@ Images will be augmentated in HSV color space. We change the HSV values of image
 ![color augmentation](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/color%20augmentation/color_augmentation.png)
 
 ## Output
-Color space augmentation can help skin segmentation models deal with complex illuminatlion conditions. Below is an examples. Label A means model was trained after (or with) color space augmentation while label B means before (or without) color space augmentation.
+Color space augmentation can help skin segmentation models deal with complex illuminatlion conditions. Below is some examples. Label A means model was trained after (or with) color space augmentation while label B means before (or without) color space augmentation.
 ![examples](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/examples/results%20examples%201.png)
 # How to use
 ## Requirements
