@@ -6,9 +6,12 @@ This is the implementation of the paper [Color Invariant Skin Segmentation](http
 
 Images will be augmentated in HSV color space. We change the HSV values of images and enlarge the training set. We used the parameters shown in the image below.
 
-[Here](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/color%20augmentation/HSV_converter.py) is one example on how to change the HSV value.
 
 ![color augmentation](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/color%20augmentation/color_augmentation.png)
+
+![pipeline](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/examples/pipeline.png)
+
+[Here](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/color%20augmentation/HSV_converter.py) is one example on how to change the HSV value.
 
 ## Output
 Color space augmentation can help skin segmentation models deal with complex illuminatlion conditions. Below is some examples. Label A means model was trained after (or with) color space augmentation while label B means before (or without) color space augmentation.
