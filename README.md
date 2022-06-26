@@ -19,8 +19,20 @@ Change the HSV values of images and enlarge the training set. We used the parame
 - Keras 
 # Test
 1. Clone the repo: 
+```
+git clone https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation.git
+```
+2. cd to the local path
+```
+cd Color-Invariant-Skin-Segmentation
+```
+3. Download the models from [here](https://drive.google.com/drive/folders/1QfoxabLN-UrsLwZjYXqmCYdHUkHxDJsf?usp=sharing)
 
-`git clone https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation.git`
+4. For U-Net: Change the model path, testing path and output path in the test.py.
+```
+cd U-Net
+python test.py
+```
 
 
 U-Net: Open the main.ipynb. Change the file path to your own dataset. 
