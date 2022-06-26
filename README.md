@@ -43,7 +43,7 @@ python prediction.py
 ## Train models with your own dataset
 
 We trained our models using [ECU](https://ieeexplore.ieee.org/document/1359760) dataset. Following the steps if you want to train your own models. We suggest the groundtruth to be in the image format (like jpg, png)
-## Dataset organition
+## Dataset organization
 Origanize your dataset as follows:
 ```
 dataset
@@ -55,7 +55,12 @@ dataset
         |-----mask
 ```
 ## U-Net training
-1. 
+1. Open the U-Net/train.py and change the parameters in the "Training setup" section
+2. Run the train.py file
+```
+python train.py
+```
+The checkpoints will be saved in the U-Net/checkpoints as default. 
 ## FCN training
 
 
