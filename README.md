@@ -9,6 +9,8 @@ Images will be augmentated in HSV color space. We change the HSV values of image
 
 ![color augmentation](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/color%20augmentation/color_augmentation.png)
 
+Here is the pipeline using color space augmentation for skin segmentation.
+
 ![pipeline](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/examples/pipeline.png)
 
 [Here](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/color%20augmentation/HSV_converter.py) is one example on how to change the HSV value.
