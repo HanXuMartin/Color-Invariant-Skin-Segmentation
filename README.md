@@ -1,6 +1,6 @@
 # Color Invariant Skin Segmentation
 
-This is the implementation of the paper [Color Invariant Skin Segmentation](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Xu_Color_Invariant_Skin_Segmentation_CVPRW_2022_paper.pdf) using [FCN](https://github.com/yunlongdong/FCN-pytorch) and [U-Net](https://github.com/zhixuhao/unet).
+This is the implementation of the paper [Color Invariant Skin Segmentation](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Xu_Color_Invariant_Skin_Segmentation_CVPRW_2022_paper.pdf) using [FCN](https://github.com/yunlongdong/FCN-pytorch)[^1] and [U-Net](https://github.com/zhixuhao/unet)[^2].
 
 ## Color Space Augmentation
 
@@ -78,6 +78,10 @@ imgB = cv2.imread('your mask')
 python FCN.py
 ```
 Checkpoints will be saved in the FCN/checkpoints as default.
+
+## Reference
+[^1]https://github.com/yunlongdong/FCN-pytorch
+[^2]https://github.com/zhixuhao/unet
 ## Cite this repo
 If you find this repo useful, please consider citing it as following:
 ```
