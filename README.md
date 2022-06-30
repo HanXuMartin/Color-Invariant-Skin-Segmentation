@@ -49,7 +49,7 @@ python prediction.py
 
 ## Train models with your own dataset
 
-We trained our models using [ECU](https://ieeexplore.ieee.org/document/1359760) dataset. Following the steps if you want to train your own models. We suggest the groundtruth to be in the image format (like jpg, png)
+We trained our models using [ECU](https://ieeexplore.ieee.org/document/1359760)<sup>3</sup> dataset. Following the steps if you want to train your own models. We suggest the groundtruth to be in the image format (like jpg, png)
 ## Dataset organization
 Origanize your dataset as follows:
 ```
@@ -82,6 +82,8 @@ Checkpoints will be saved in the FCN/checkpoints as default.
 ## Reference
 1. https://github.com/yunlongdong/FCN-pytorch
 2. https://github.com/zhixuhao/unet
+3. S. L. Phung, A. Bouzerdoum and D. Chai, "Skin segmentation using color pixel classification: analysis and comparison," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 27, no. 1, pp. 148-154, Jan. 2005, doi: 10.1109/TPAMI.2005.17.
+4. M. Wang, W. Deng, J. Hu, X. Tao and Y. Huang, "Racial Faces in the Wild: Reducing Racial Bias by Information Maximization Adaptation Network," 2019 IEEE/CVF International Conference on Computer Vision (ICCV), 2019, pp. 692-702, doi: 10.1109/ICCV.2019.00078.
 ## Cite this repo
 If you find this repo useful, please consider citing it as following:
 ```
