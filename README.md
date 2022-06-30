@@ -1,6 +1,6 @@
 # Color Invariant Skin Segmentation
 
-This is the implementation of the paper [Color Invariant Skin Segmentation](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Xu_Color_Invariant_Skin_Segmentation_CVPRW_2022_paper.pdf) using [FCN](https://github.com/yunlongdong/FCN-pytorch)<sup>1</sup> and [U-Net](https://github.com/zhixuhao/unet)<sup>2</sup>.
+This is the implementation of the paper [Color Invariant Skin Segmentation](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Xu_Color_Invariant_Skin_Segmentation_CVPRW_2022_paper.pdf) using [FCN](https://github.com/yunlongdong/FCN-pytorch) [1] and [U-Net](https://github.com/zhixuhao/unet)<sup>2</sup>.
 
 ## Color Space Augmentation
 
