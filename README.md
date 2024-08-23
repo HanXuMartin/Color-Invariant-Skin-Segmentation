@@ -19,7 +19,7 @@ Here is the pipeline using color space augmentation for skin segmentation.
 Color space augmentation can help skin segmentation models deal with complex illuminatlion conditions. Below is some examples. Label A means model was trained after (or with) color space augmentation while label B means before (or without) color space augmentation.
 ![examples](https://github.com/HanXuMartin/Color-Invariant-Skin-Segmentation/blob/main/examples/results%20examples%201.png)
 # How to use
-# This work has been rebuild in https://github.com/HanXuMartin/SkinSegmentation
+# This work has been rebuild [here](https://github.com/HanXuMartin/SkinSegmentation)
 ## Requirements
 - Python 3.8.5
 - PyTorch
